@@ -1,0 +1,11 @@
+{
+    "name": "anna/hexlet-php",
+    "description": "PHP-project for exercises",
+    "authors": [
+        {
+            "name": "Hanna Herasimava",
+            "email": "annlisandias@gmail.com"
+        }
+    ],
+    "require": {}
+}
